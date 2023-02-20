@@ -39,7 +39,7 @@ public class Lab {
 //        code here
         while(i < end){
             sum = sum + 1;
-        
+            i++;
         }
 
         return sum;
